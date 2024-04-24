@@ -26,4 +26,4 @@ public:
         return this->contenido;
     }
     ~Dibujo() {}
-};
+ };
